@@ -26,4 +26,8 @@ what are you doing?
 
 hi good evening
 
+<<<<<<< HEAD
 i am leaving at 5pm
+=======
+i go by bus
+>>>>>>> featureOne
