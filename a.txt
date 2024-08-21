@@ -14,5 +14,8 @@ i am good at c and linux
 
 
 hi morning
+<<<<<<< Updated upstream
 
 what are you doing?
+=======
+>>>>>>> Stashed changes
