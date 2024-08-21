@@ -1,2 +1,3 @@
 hi good morning i am b
 i am taking training in embedded systems from viven embedded academy
+i am good at c, linux and networking
