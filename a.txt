@@ -11,3 +11,6 @@ i am fine
 i am taking training from viven embedded academy
 i am good at c and linux
 >>>>>>> branch2
+
+
+hi morning
